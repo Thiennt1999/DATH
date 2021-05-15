@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896673415576",
+    "project_id": "dath-4780c",
+    "storage_bucket": "dath-4780c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896673415576:android:9e72362d1df4d6bb9d2bed",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896673415576-c36s8ssa7cek3emtgjaggniqlr9i5gd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0hsv378bVNfDGXERwiXqAg3VxqRGJ57Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896673415576-c36s8ssa7cek3emtgjaggniqlr9i5gd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
